@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: randomduck-astro-starter-c0f
+owner: randomduck
+package: randomduck/astro-starter-c0f
